@@ -9,9 +9,7 @@
 </p>
 
 ### 💫 About Me
-<P>
- <sub>Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.</sub>
-</P>
+ Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.
 ---
 
 ## 🚧 Current Activities
