@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
- Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.
+Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.
 ---
 
 ## 🚧 Current Activities
@@ -24,11 +24,12 @@
 
 ## 🚀 Technical Journey
 
-- Front-end Developer Intern at **Namyata Technology** (Remote – Delhi, India).
-- Exploring advanced React patterns for scalable UI development.
-- Building and scaling Textila with Stripe integration and RBAC.
-- Improving declarative UI design and state management.
-
+- Practicing full-stack development best practices for scalable applications.
+- Applying advanced React patterns to build reusable and efficient UI components.
+- Developed and scaled Textila e-commerce app with Stripe payment integration and role-based   access control (RBAC).
+- Enhancing UI design and optimizing state management for better user experience.
+- Learning Artificial Intelligence (AI) concepts and applying them to small projects.
+  
 ---
 
 ### 🛠️ Languages & Tools
