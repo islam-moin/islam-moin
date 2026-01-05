@@ -35,14 +35,14 @@ I am a specialized **MERN Stack Developer** dedicated to building secure, scalab
 
 | Category         | Tools & Technologies                                                  |
 | :--------------- | :-------------------------------------------------------------------- |
-| **Frontend**     | `React.js`, `Next.js`, `TypeScript`, `Redux`, `Sass`, `Tailwind CSS`  |
+| **Frontend**     | `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`  |
 | **Backend**      | `Node.js`, `Express.js`, `Rest APIs`, `JWT Authentication`            |
-| **UI & Styling** | `Tailwind CSS`, `Framer Motion`, `Sass`, `Material UI`                |
-| **Database**     | `MongoDB`, `Firebase`, `PostgreSQL`                                   |
-| **DevOps/Tools** | `Git`, `GitHub`, `Vercel`, `Heroku`, `Stripe API`, `Google Analytics` |
+| **UI & Styling** | `Tailwind CSS`, `Framer Motion`, `Material UI`                |
+| **Database**     | `MongoDB`, `Firebase`                                   |
+| **DevOps/Tools** | `Git`, `GitHub`, `Vercel`, `Stripe API`, `Google Analytics` |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,vscode" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ I am a specialized **MERN Stack Developer** dedicated to building secure, scalab
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanakhatun&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islam-moin&theme=radical" width="100%" />
 </p>
 
 <p align="center">
