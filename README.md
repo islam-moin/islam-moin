@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-##💫 About Me
+## 💫 About Me
 
-#Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.
+# Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.
 ---
 
 ## 🚧 Current Activities
