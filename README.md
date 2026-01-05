@@ -1,32 +1,79 @@
-<h1 align="center">Hi 👋, I'm Moinul Islam</h1>
-<h3 align="center">Passionate MERN Stack Developer | Building Modern Web Applications from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-moin&label=Profile%20views&color=0e75b6&style=flat" alt="islam-moin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islam-moin" alt="islam-moin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Blood Donation](https://vitalflow-9b72a.web.app/)
-
-- 🌱 I’m currently learning **Next.js andTypeScript**
-
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB Full-stack web development Building modern web apps Next.js & TypeScript (learning) Frontend UI/UX design with Tailwind CSS**
-
-- 📫 How to reach me **imdmoinul697@gmial.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moinul-islam-6b1669371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moinul-islam-6b1669371/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/md.moinul.islam.878427/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.moinul.islam.878427/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mdmoinul1919/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdmoinul1919/?hl=en" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/image-banner.png" alt="Romana Khatun Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Full--Stack_Developer-38B2AC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MERN_Stack-blue?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js_(SSR)-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-moin&show_icons=true&locale=en&layout=compact" alt="islam-moin" /></p>
+### 💫 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-moin&show_icons=true&locale=en" alt="islam-moin" /></p>
+I am a specialized **MERN Stack Developer** dedicated to building secure, scalable, and high-performance web applications. My expertise lies in architecting complex front-end systems. 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-moin&" alt="islam-moin" /></p>
+## 🚧 Current Activities
+
+- Advancing my skills in **React.js advanced patterns** for scalable and reusable UI development.
+- Exploring **backend development** to improve API structure and data flow.
+- Learning **Next.js** to build performant, SEO-optimized React applications.
+- Strengthening full-stack development best practices.
+
+---
+
+## 🚀 Technical Journey
+
+- Front-end Developer Intern at **Namyata Technology** (Remote – Delhi, India).
+- Exploring advanced React patterns for scalable UI development.
+- Building and scaling Textila with Stripe integration and RBAC.
+- Improving declarative UI design and state management.
+
+---
+
+### 🛠️ Languages & Tools
+
+| Category         | Tools & Technologies                                                  |
+| :--------------- | :-------------------------------------------------------------------- |
+| **Frontend**     | `React.js`, `Next.js`, `TypeScript`, `Redux`, `Sass`, `Tailwind CSS`  |
+| **Backend**      | `Node.js`, `Express.js`, `Rest APIs`, `JWT Authentication`            |
+| **UI & Styling** | `Tailwind CSS`, `Framer Motion`, `Sass`, `Material UI`                |
+| **Database**     | `MongoDB`, `Firebase`, `PostgreSQL`                                   |
+| **DevOps/Tools** | `Git`, `GitHub`, `Vercel`, `Heroku`, `Stripe API`, `Google Analytics` |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanakhatun&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romanakhatun&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanakhatun&theme=radical" width="48%" />
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/romana-khatun1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/msromanakhatun" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:romanakhatun2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Passionate about building scalable MERN applications and solving complex problems."</i>
+</p>
