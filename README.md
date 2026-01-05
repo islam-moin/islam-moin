@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
-I am a specialized **MERN Stack Developer** dedicated to building secure, scalable, and high-performance web applications. My expertise lies in architecting complex front-end systems. 
+Hi! I’m a MERN Stack Developer with a passion for creating modern web applications that are fast, secure, and scalable. I enjoy turning complex problems into elegant solutions, building responsive front-end interfaces, and ensuring smooth back-end functionality. Always excited to learn new technologies and collaborate with teams to bring ideas to life.
 ---
 
 ## 🚧 Current Activities
