@@ -50,7 +50,7 @@ I am a specialized **MERN Stack Developer** dedicated to building secure, scalab
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islam-moin&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islam-moin&hide_title=true&theme=radical" width="100%" />
 </p>
 
 <p align="center">
