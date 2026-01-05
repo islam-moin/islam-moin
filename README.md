@@ -40,7 +40,7 @@ Hi! I’m a MERN Stack Developer with a passion for creating modern web applicat
 | **Backend**      | `Node.js`, `Express.js`, `Rest APIs`, `JWT Authentication`            |
 | **UI & Styling** | `Tailwind CSS`, `Framer Motion`, `Material UI`                |
 | **Database**     | `MongoDB`, `Firebase`                                   |
-| **DevOps/Tools** | `Git`, `GitHub`, `Vercel`, `Stripe API`, `Google Analytics` |
+| **DevOps/Tools** | `Git`, `GitHub`, `Vercel`, `Figma`, `Google Analytics` |
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,vscode" />
