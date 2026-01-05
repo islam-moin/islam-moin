@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/image-banner.png" alt="Romana Khatun Banner" width="100%">
+  <img src="https://i.ibb.co.com/jvHfHBd2/banner.png" alt="Romana Khatun Banner" width="100%">
 </p>
 
 <p align="left">
