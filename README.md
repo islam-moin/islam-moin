@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/jvHfHBd2/banner.png" alt="Moinul-Islam Banner" width="80%">
+  <img src="https://i.ibb.co.com/jvHfHBd2/mbanner.png" alt="Moinul-Islam Banner" width="80%">
 </p>
 
 <p align="left">
